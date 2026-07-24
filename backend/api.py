@@ -50,7 +50,7 @@ app = FastAPI(title="InsightAI API")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://insightai-backend-dv6i.onrender.com"],
+    allow_origins=["https://insightai-frontend-h2n8.onrender.com"],
     allow_methods=["*"],
     allow_headers=["*"],
 )
