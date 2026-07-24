@@ -39,6 +39,8 @@ orjson>=3.9.0
 
 # Typing support (helps in bigger projects)
 pydantic>=2.5.0
+fastapi>=0.115.0
+uvicorn>=0.30.0
 
 # Optional (for advanced parsing / HTML cleanup)
 html5lib>=1.1
