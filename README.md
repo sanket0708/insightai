@@ -20,20 +20,14 @@ An AI-powered research assistant that automates web research using a multi-agent
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-- React
-- Vite
-- CSS
-
-**Backend**
-- FastAPI
-- Python
-
-**AI**
-- LangChain
-- Mistral AI
-- Tavily API
-
+| Category | Technologies |
+| :-------- | :----------- |
+| 🎨 **Frontend** | React • Vite • CSS3 |
+| ⚙️ **Backend** | FastAPI • Python |
+| 🤖 **AI** | LangChain • Mistral AI |
+| 🔍 **Search** | Tavily API |
+| ☁️ **Deployment** | Render |
+| 🛠️ **Tools** | Git • GitHub |
 ---
 
 ## 👨‍💻 Author
