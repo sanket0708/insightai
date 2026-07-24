@@ -1,65 +1,43 @@
-<div align="center">
-
 # 🔍 InsightAI
 
-### AI-Powered Multi-Agent Research Assistant
+An AI-powered research assistant that automates web research using a multi-agent workflow. It searches the web, extracts relevant information, and generates structured research reports with live progress updates.
 
-Transform any research topic into a comprehensive report using AI agents, live web search, and intelligent source analysis.
+## 🚀 Demo
 
-[🚀 Live Demo](https://insightai-frontend-h2n8.onrender.com) • [🐛 Report Bug](https://github.com/sanket0708/insightai/issues) • [⭐ Star this Repository](https://github.com/sanket0708/insightai)
-
-</div>
+🌐 **Live:** https://insightai-frontend-h2n8.onrender.com
 
 ---
 
 ## ✨ Features
 
-- 🤖 **Multi-Agent AI Workflow**
-  - Search Agent
-  - Reader Agent
-  - Writer Agent
-  - Critic Agent
-
-- 🌍 Real-time web research using **Tavily API**
-
-- 🧠 AI-generated research reports using **Mistral AI**
-
-- ⚡ Live streaming updates while research is in progress
-
-- 📄 Structured, readable reports with AI critique
-
-- 🎨 Modern React interface with responsive design
+- 🤖 Multi-agent AI workflow (Search → Reader → Writer → Critic)
+- 🌐 Real-time web search with Tavily API
+- 🧠 AI-powered report generation using Mistral AI
+- ⚡ Live streaming research progress with FastAPI
+- 💻 Responsive React frontend
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-
+**Frontend**
 - React
 - Vite
-- CSS3
+- CSS
 
-### Backend
-
+**Backend**
 - FastAPI
 - Python
 
-### AI & LLM
-
+**AI**
 - LangChain
 - Mistral AI
-
-### Search
-
 - Tavily API
-
-### Deployment
-
-- Render
 
 ---
 
-⭐ If you found this project interesting, consider giving it a star!
+## 👨‍💻 Author
 
-</div>
+**Sanket Mudholkar**
+
+If you found this project useful, consider giving it a ⭐.
